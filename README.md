@@ -17,11 +17,6 @@ I am, **actually**, a FrontEnd Developer who possess a profound passion for the 
 	<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" />
 </a>
 
-### <img align ='center' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="37" /> What I'm learning
-- **React-Native**
-- **Spring boot**
-- **Styled components**
-
 ###  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Medium-Dark%20Skin%20Tone.png" alt="Artist Medium-Dark Skin Tone" width="37" /> Skills
 
 #### Languages
@@ -31,9 +26,4 @@ I am, **actually**, a FrontEnd Developer who possess a profound passion for the 
 #### Tools and Platforms
 ![My Skills](https://skillicons.dev/icons?i=git,firebase,appwrite,figma,aws,redux)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesofc&show_icons=true&locale=en&layout=compact" alt="codesofc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesofc&show_icons=true&locale=en" alt="codesofc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesofc&" alt="codesofc" /></p>
 
