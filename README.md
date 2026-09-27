@@ -27,10 +27,10 @@ I am a **Full-Stack Software Developer** with 2+ years of experience building pr
 ![Languages](https://skillicons.dev/icons?i=js,typescript,java,html,css)
 
 #### Frontend & Frameworks
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass)
+![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,bootstrap,sass)
 
 #### Backend & Databases
 ![Backend & Databases](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,redis)
 
 #### Tools & Infrastructure
-![Tools & Infrastructure](https://skillicons.dev/icons?i=git,github,docker,vercel,aws,firebase,prisma,figma)
+![Tools & Infrastructure](https://skillicons.dev/icons?i=git,github,docker,vercel,aws,cloudflare,firebase,prisma,figma)
